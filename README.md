@@ -82,25 +82,4 @@ The recommendation system uses **Gemini AI** to analyze user input based on **mo
 
 ---
 
-## 📙 What You’ll Learn
-
-* Building fullstack apps with MERN
-* Debugging real-world issues (CORS, Mongo errors)
-* Zustand for clean state logic
-* Secure Auth with JWT & Bcrypt
-* Building scalable APIs
-* Using Gemini AI for real features
-* Deploying to the real web with Render
-* Best practices, clean code, and error handling
-
----
-
-## 🙌 Support This Project
-
-If you found this helpful, please:
-
-* ⭐️ Star this repo
-* 🛠️ Fork it
-* 📣 Share with others
-* 🧠 Subscribe on [YouTube](https://www.youtube.com/@emmanuelezeigbo659) for more in-depth dev tutorials
 # Netflix-Clone
