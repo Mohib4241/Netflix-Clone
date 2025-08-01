@@ -1,17 +1,3 @@
-# 🎨 Fullstack Netflix Clone with AI Movie Recommendations (MERN Stack 2025)
-
-This is a fully functional, fullstack **Netflix Clone** built with the **MERN stack** — featuring **AI-powered movie recommendations** powered by **Gemini AI**, complete **authentication**, and a clean, responsive UI using real data from the **TMDB API**.
-
-> ✅ This project is complete — from frontend to backend to AI integration and deployment. It’s built to teach and showcase real-world skills.
-
-**📺 Watch the Full YouTube Tutorial Series**
-[https://youtu.be/Y5YVfD1dVkk?si=YeXh48ULSnwy69HN](https://youtu.be/Y5YVfD1dVkk?si=YeXh48ULSnwy69HN)
-
-**📆 Live Demo**: [https://aiflix-1.onrender.com/](https://aiflix-1.onrender.com/)
-
----
-
-## 🚀 Features
 
 * ✅ Netflix-style UI with responsive layout
 * 🎨 Real movie data from **TMDB API**
@@ -117,3 +103,4 @@ If you found this helpful, please:
 * 🛠️ Fork it
 * 📣 Share with others
 * 🧠 Subscribe on [YouTube](https://www.youtube.com/@emmanuelezeigbo659) for more in-depth dev tutorials
+# Netflix-Clone

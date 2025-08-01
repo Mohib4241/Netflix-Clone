@@ -19,9 +19,6 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors({origin: process.env.CLIENT_URL, credentials: true}))
 
-app.get("/", (req, res) => {
-  res.send("Subscribe To My Channel!");
-});
 
 app.post("/api/signup", async (req, res) => {
   const { username, email, password } = req.body;
